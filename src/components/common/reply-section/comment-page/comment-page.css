@@ -1,0 +1,13 @@
+.comment-section{
+  display: flex;
+  flex-direction: row;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.title {
+  font-size: 2.4em;
+  font-weight: bolder;
+}

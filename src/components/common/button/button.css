@@ -1,0 +1,57 @@
+.button{
+  border-radius: 6px;
+  min-width: 300px;
+  height: 64px;
+  font-size: 24px;
+  font-weight: bold;
+}
+.button-add{
+  color: white;
+  background-color: rgb(22, 99, 214);
+  border: 2px white solid;
+  font-size: 24px;
+}
+.button-container{
+  margin: 0 4px;
+}
+.button-reply{
+  color: rgb(15, 121, 243);
+  background-color: white;
+  border: 2px rgb(15, 121, 243) solid;
+  min-width: 100px;
+  height: 32px;
+  font-size: 12px;
+}
+.button-delete{
+  color: rgba(243, 35, 35, 0.671);
+  background-color: white;
+  border: 2px rgba(243, 35, 35, 0.671) solid;
+  min-width: 100px;
+  height: 32px;
+  font-size: 12px;
+}
+.button-edit{
+  color: rgb(255, 172, 18);
+  background-color: white;
+  border: 2px rgb(255, 172, 18) solid;
+  min-width: 100px;
+  height: 32px;
+  font-size: 12px;
+}
+.button-cancel{
+  color:  white;
+  background-color:rgba(243, 35, 35, 0.671);
+  border: 2px white solid;
+  min-width: 100px;
+  height: 32px;
+  font-size: 12px;
+}
+
+.button-save{
+  color:  white;
+  background-color: rgb(15, 121, 243);
+  border: 2px white solid;
+  min-width: 100px;
+  height: 32px;
+  font-size: 12px;
+}

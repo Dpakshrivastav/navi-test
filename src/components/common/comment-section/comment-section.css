@@ -1,0 +1,18 @@
+.comment-section{
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  flex-direction: row;
+  margin: 8px 0;
+}
+.comment-box{
+
+}
+.add-comment, .edit-comment{
+  margin: 8px;
+  padding: 8px;
+}
+.edit-comment{
+  display: flex;
+  flex-direction: row;
+}
